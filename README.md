@@ -84,7 +84,7 @@ The `ecommerce.sql` file contains the SQL statements to create the tables and de
 
 ##  File Structure
 * ├── ecommerce.sql
-* └── README.md## Contribution
+* └── README.md
 
 ## Future Enhancements
 * Implement user management (customers, administrators).
