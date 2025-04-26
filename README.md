@@ -49,10 +49,6 @@ This project requires you to design a database for an e-commerce platform.  The 
 
 ![ERD](images/erd.png)
 
-## Data Flow Diagram 
-
-![DFD](images/dfd.png)
-
 ## Database Tables
 
 The following tables will be created for the e-commerce platform:
@@ -83,7 +79,7 @@ The `ecommerce.sql` file contains the SQL statements to create the tables and de
 ## Technical Details
 
 * **Database System:** MySQL
-* **ERD Tool:** draw.io
+* **ERD Tool:** dbdiagram.io
 * **Programming Language:** SQL
 
 ##  File Structure
