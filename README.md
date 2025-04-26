@@ -87,9 +87,9 @@ The `ecommerce.sql` file contains the SQL statements to create the tables and de
 * **Programming Language:** SQL
 
 ##  File Structure
-├── ecommerce.sql
-├── erd.pdf (or erd.png, etc.)
-└── README.md## Contribution
+*├── ecommerce.sql
+*├── erd.pdf (or erd.png, etc.)
+*└── README.md## Contribution
 
 ## Future Enhancements
 * Implement user management (customers, administrators).
