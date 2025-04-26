@@ -45,6 +45,14 @@ This project requires you to design a database for an e-commerce platform.  The 
 * Track your progress, share updates, and troubleshoot together.
 * Ensure everyone is in the loop.
 
+## ERD 
+
+![ERD](images/erd.png)
+
+## Data Flow Diagram 
+
+![DFD](images/dfd.png)
+
 ## Database Tables
 
 The following tables will be created for the e-commerce platform:
@@ -62,14 +70,6 @@ The following tables will be created for the e-commerce platform:
 * **attribute_category:** Groups attributes into categories (e.g., physical, technical).
 * **attribute_type:** Defines types of attributes (e.g., text, number, boolean).
 
-## ERD 
-
-![ERD](images/erd.png)
-
-## Data Flow Diagram 
-
-![DFD](images/dfd.png)
-
 ## SQL Implementation
 
 The `ecommerce.sql` file contains the SQL statements to create the tables and define the database schema.  It can be used to set up the database in a MySQL or other compatible database system.
@@ -82,8 +82,8 @@ The `ecommerce.sql` file contains the SQL statements to create the tables and de
 
 ## Technical Details
 
-* **Database System:** MySQL (or compatible)
-* **ERD Tool:** [Name of the tool you used, e.g., draw.io, Lucidchart]
+* **Database System:** MySQL
+* **ERD Tool:** draw.io
 * **Programming Language:** SQL
 
 ##  File Structure
